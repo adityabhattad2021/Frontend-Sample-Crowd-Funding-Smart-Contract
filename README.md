@@ -1,5 +1,6 @@
 # Minimalistic Frontend For Crowd Funding Smart Contract.
 
+![K1](https://user-images.githubusercontent.com/93488388/180595244-9e07904c-13a9-4333-9fd3-52f234f858f2.png)
 
 To Run:
 <br>
