@@ -1,4 +1,4 @@
-# Minimalistic Frontned For Crowd Funding Smart Contract.
+# Minimalistic Frontend For Crowd Funding Smart Contract.
 
 
 To Run:
