@@ -1,1 +1,0 @@
-Learning Web 3 with HTML and Javascript.
